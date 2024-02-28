@@ -1,0 +1,11 @@
+datetime
+matplotlib
+numpy
+pandas
+python-dateutil
+pytz
+seaborn
+openpyxl
+sqlalchemy
+mysql-connector-python
+python-dotenv
