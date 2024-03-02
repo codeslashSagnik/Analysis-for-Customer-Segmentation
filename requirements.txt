@@ -9,3 +9,5 @@ openpyxl
 sqlalchemy
 mysql-connector-python
 python-dotenv
+plotly
+scikit-learn
